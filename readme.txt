@@ -7,3 +7,4 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 fuck first
 fuck end
+Creating a new branch is quick.
